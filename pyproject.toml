@@ -12,6 +12,7 @@ dependencies = [
     "mkdocs>=1.6.1",
     "pandas>=2.3.3",
     "scikit-learn>=1.7.2",
+    "streamlit>=1.51.0",
     "uvicorn>=0.38.0",
 ]
 
